@@ -23,7 +23,7 @@ function getFilename() {
 
 btn.addEventListener("click",function(e){
     //輸入的值為 keyword.value
-    let num=-1;
+    let num = -1;
     let weight=[];
 
     
